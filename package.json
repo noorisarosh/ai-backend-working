@@ -1,0 +1,12 @@
+{
+  "name": "ai-extension-backend",
+  "version": "1.0.0",
+  "description": "Backend for AI Chrome Extension",
+  "scripts": {
+    "dev": "vercel dev"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "@vercel/node": "^2.0.0"
+  }
+}
